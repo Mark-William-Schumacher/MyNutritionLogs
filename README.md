@@ -214,6 +214,39 @@ Apple (100), Bannana (130), 1 Protein shake (130) + Chickapeas (150) + 200 milk 
 <br>
 <br>
 <br>
+
+
+## Wednesday Oct 26
+* Shoulders 14 exercises
+
+```
+350 breakfast
+150 coffee work 
+100 bannana at work
+700 lunch
+700 dinner
+300 snacks
+```
+
+~2300
+
+## Thursday Oct 27
+* Back 12 exercises + 2 frisbees
+
+```
+350 breakfast
+150 coffee work 
+100 apple at work
+700 lunch
+```
+
+
+
+
+<br>
+<br>
+<br>
+<br>
 # Items
 carb/fat/pro = cal
 
