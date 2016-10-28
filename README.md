@@ -246,6 +246,16 @@ Apple (100), Bannana (130), 1 Protein shake (130) + Chickapeas (150) + 200 milk 
 ```
 ~2300
 
+## Friday Oct 28
+* Triceps 12 Excercise
+* Bicep 12 Excercises
+
+```
+150 2 coffees (2m 1s with caramel)
+700 lunch
+```
+
+~2300
 
 
 
