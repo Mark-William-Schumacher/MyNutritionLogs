@@ -248,14 +248,36 @@ Apple (100), Bannana (130), 1 Protein shake (130) + Chickapeas (150) + 200 milk 
 
 ## Friday Oct 28
 * Triceps 12 Excercise
-* Bicep 12 Excercises
 
 ```
 150 2 coffees (2m 1s with caramel)
 700 lunch
+100 Bannana
+130 Coffee + whey
+100 Toffee treats
+350 Veggies and dip
+350 Veggies after work before drinks
+50 Coffee
 ```
+~2000 Calories
 
-~2300
+
+## Saturday Oct 29
+* Biceps 14 Excercises
+
+```
+200 Calorie breakfast
+100 Pear
+100 Apple
+160 Calorie coffee + Whey
+80 Calories from random coffees.
+650 Terriaki twist
+150 Snacking
+
+```
+~1500
+
+
 
 
 
