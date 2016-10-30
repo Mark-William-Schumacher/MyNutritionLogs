@@ -264,6 +264,7 @@ Apple (100), Bannana (130), 1 Protein shake (130) + Chickapeas (150) + 200 milk 
 
 ## Saturday Oct 29
 * Biceps 14 Excercises
+* Ran 3 miles
 
 ```
 200 Calorie breakfast
@@ -272,11 +273,27 @@ Apple (100), Bannana (130), 1 Protein shake (130) + Chickapeas (150) + 200 milk 
 160 Calorie coffee + Whey
 80 Calories from random coffees.
 650 Terriaki twist
+Chicken bites / pizza / etc etc etc
 150 Snacking
 
 ```
-~1500
+~3000
 
+Bad....
+
+## Sunday Oct 30
+* Back + shoulders
+* Ran 3 miles
+
+```
+300 Calorie breakfast
+160 Calorie coffee + Whey
+150 Coffees with milk
+200 Coffee Cake
+200 Apple , Pear 
+700 Terriaki Twist
+500 Loblaws Lunch
+```
 
 
 
