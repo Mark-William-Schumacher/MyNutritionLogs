@@ -289,10 +289,22 @@ Bad....
 300 Calorie breakfast
 160 Calorie coffee + Whey
 150 Coffees with milk
-200 Coffee Cake
+250 Coffee Cake
 200 Apple , Pear 
 700 Terriaki Twist
 500 Loblaws Lunch
+150 Pomegranete
+250 Apple/Cheese
+```
+~2700 Calories
+
+## Monday Oct 31
+* Chest 12 workouts - Bench/Decline/Incline (6 rep at 205!)
+
+```
+320 Black beans + Coffee 
+
+
 ```
 
 
