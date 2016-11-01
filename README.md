@@ -301,12 +301,30 @@ Bad....
 ## Monday Oct 31
 * Chest 12 workouts - Bench/Decline/Incline (6 rep at 205!)
 
+
 ```
 320 Black beans + Coffee 
-
+700 + 700 
+150 Snack
+100 Ketchup veggie 
+100 Coffees  
 
 ```
 
+~ 2100 
+
+####Additional Goals
+* 	Got Windows running on old laptop 
+*  Went to meeting
+
+
+## Tuesday Nov 1
+* Rest ... well frisbee. 
+
+```
+50 Coffee
+100 Banana 
+```
 
 
 
