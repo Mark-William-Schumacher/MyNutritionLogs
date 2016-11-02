@@ -319,15 +319,33 @@ Bad....
 
 
 ## Tuesday Nov 1
-* Rest ... well frisbee. 
+* Ran 3miles
+* Played frisbee. 
 
 ```
 50 Coffee
 100 Banana 
+200 Coffee milk 
+700 Lunch Steven
+700 Dinner
+100 Yogurt
+100 Candies
+300 chicken
 ```
+2250
 
+####Additional Goals
+*  Sold computer
+*  Lunch with steven
 
+## Wednesday Nov 2
 
+####Additional Goals
+* Wait until 4pm until first meal
+* start tracking protein
+* make a goal card.
+* Change your self image. See yourself as the person you want to become. make a goal card . read it everyday.
+* Meeting for tommorow.
 
 <br>
 <br>
