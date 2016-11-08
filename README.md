@@ -339,18 +339,39 @@ Bad....
 *  Lunch with steven
 
 ## Wednesday Nov 2
+```
+50 Coffee
+1000 For protein + teriaki twist
+1000 For Dinner
+200 veggie snack
+
+```
 
 ####Additional Goals
 * Wait until 4pm until first meal
 * start tracking protein
+
+
+## Thursday Nov 3
+
+####Additional Goals
 * make a goal card.
 * Change your self image. See yourself as the person you want to become. make a goal card . read it everyday.
 * Meeting for tommorow.
 
-<br>
-<br>
-<br>
-<br>
+<br><br><br>
+# Five day break
+<br><br><br>
+
+## Tuesday November 8
+
+```
+1200 Calories 
+Breakfast, sausage + bread + everything
+1200 Dinner with parents
+```
+
+
 # Items
 carb/fat/pro = cal
 
