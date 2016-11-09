@@ -364,12 +364,22 @@ Bad....
 <br><br><br>
 
 ## Tuesday November 8
+No workout
 
 ```
 1200 Calories 
 Breakfast, sausage + bread + everything
 1200 Dinner with parents
 ```
+
+## Wednesday November 9
+
+```
+100 Calories from 2 coffees
+800 Calories Terriaki Twist
+
+```
+
 
 
 # Items
