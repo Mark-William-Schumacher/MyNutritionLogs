@@ -377,8 +377,33 @@ Breakfast, sausage + bread + everything
 ```
 100 Calories from 2 coffees
 800 Calories Terriaki Twist
+1
 
 ```
+
+## Thursday November 10
+Biceps + Back 
+
+```
+Hard to tell with parents dinner
+100 Calories from 2 coffees
+800 Calories Terriaki Twist
+```
+2400 calories
+
+## Friday November 11
+
+
+```
+1400/	60 g Calories 2 Terriaki twists - 1400
+270	 /	20  3 Eggs + some cheese
+150 /  
+
+2 Coffees 
+2 Chicken meals at end 
+```
+2600 calories 
+Nachos 
 
 
 
