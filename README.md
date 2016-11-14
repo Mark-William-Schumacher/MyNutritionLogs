@@ -1,30 +1,29 @@
 
 # Measured out Meals
 
-## Snacks
-* Tomato and Feta <br>115 Calories <br> 8 / 6 / 6 <br> 30 grams of feta, and a full tomato
-
-* Banana <br> 121 Calories <br> 31 / 0 / 1.5 
-
-* Apple <br> 100 Calories <br> 25 / 0 / 0 
-
-* Chickapees (1/3 cup) <br> 150 Calories <br> 
-	1 tablespoon maple serup <br> 1/3 cup chickapea
-	 
-* Protein shake (1/3 cup) <br> 130 Calories <br> 
- 	4 / 2 / 25	
-
-## Breakfast 
-Coffee (2M1S) - 18/2/4 = 106 calories <br>
-Coffee (2M) - 6/2/6 = 60 calories
-
-* Piece of toast with avacado and egg <br> 265 calories <br> 26 / 5 / 7 
 
 ## Meals
+
+### Marks - Sausage Black bean - 686 Cal 
+
+![](images/sausage_black_bean.jpg)
+
+#### Totals: 35g Fat , 60 Carb , 27 Pro
+
+|Ingredients|Serving|Calories|Fats|Carbs|Proteins|
+|--------|:--:|:--:|:-----:|:---:|:--:|
+| Sausage | 100g  |  317 | 25 | 4 | 20 
+| Spanish Rice | 3/4 Cup  |  159 | 2.7 | 30.51 | 3.5
+| Tomato | 1/2 Cup | 26 | 0 | 6 | 1 
+| Blackbean | 1/2 Cup | 109 | 0.35 | 19.87 | 7.25 
+| Cheese | 20 grams | 80 | 7 | 0 | 5 
+| Lettuce | Lots | 0 | 0 | 0 | 0 
+
 
 ### Marks - Mediterranean bowl <br> 650 Cal 
 
 ![](images/medbowl.jpg)
+
 
 164(chicken) + 175 (quinoa) + 80(feta) + 78 (1/2 cup olives) + (50) Veggies 
 
@@ -452,6 +451,26 @@ large coffee 2 milk <br>
  
 1 Apple  <br> 
 25/0/0 = 100 calories
+
+
+## Snacks
+* Tomato and Feta <br>115 Calories <br> 8 / 6 / 6 <br> 30 grams of feta, and a full tomato
+
+* Banana <br> 121 Calories <br> 31 / 0 / 1.5 
+
+* Apple <br> 100 Calories <br> 25 / 0 / 0 
+
+* Chickapees (1/3 cup) <br> 150 Calories <br> 
+	1 tablespoon maple serup <br> 1/3 cup chickapea
+	 
+* Protein shake (1/3 cup) <br> 130 Calories <br> 
+ 	4 / 2 / 25	
+
+## Breakfast 
+Coffee (2M1S) - 18/2/4 = 106 calories <br>
+Coffee (2M) - 6/2/6 = 60 calories
+
+* Piece of toast with avacado and egg <br> 265 calories <br> 26 / 5 / 7 
 
 <br> <br> <br> <br> <br>
 #Template 
