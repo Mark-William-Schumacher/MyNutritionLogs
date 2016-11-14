@@ -4,7 +4,23 @@
 
 ## Meals
 
-### Marks - Sausage Black bean - 686 Cal 
+### Marks - Mexican Black bean - 686 Cal 
+
+![](images/sausage_black_bean1.jpg)
+
+#### Totals: 35g Fat , 60 Carb , 27 Pro
+
+|Ingredients|Serving|Calories|Fats|Carbs|Proteins|
+|--------|:--:|:--:|:-----:|:---:|:--:|
+| GroundBeef | 100g  | 276 | 18.5 | 0 | 25 
+| Spanish Rice | 3/4 Cup  |  159 | 2.7 | 30.51 | 3.5
+| Tomato | 1/2 Cup | 26 | 0 | 6 | 1 
+| Blackbean | 1/2 Cup | 109 | 0.35 | 19.87 | 7.25 
+| Corn | 1/2 Cup | 70 | 0.5 | 16 | 2
+| Cheese | 20 grams | 80 | 7 | 0 | 5 
+| Lettuce | Lots | 0 | 0 | 0 | 0 
+
+### Sausage Black bean - 686 Cal 
 
 ![](images/sausage_black_bean.jpg)
 
@@ -20,7 +36,7 @@
 | Lettuce | Lots | 0 | 0 | 0 | 0 
 
 
-### Marks - Mediterranean bowl <br> 650 Cal 
+### Mediterranean bowl <br> 650 Cal 
 
 ![](images/medbowl.jpg)
 
