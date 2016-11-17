@@ -22,8 +22,7 @@
 
 ### Sausage Black bean - 686 Cal 
 
-![](images/sausage_black_bean.jpg)
-
+![](images/sausage_black_bean1.jpg)
 #### Totals: 35g Fat , 60 Carb , 27 Pro
 
 |Ingredients|Serving|Calories|Fats|Carbs|Proteins|
