@@ -4,6 +4,33 @@
 
 ## Meals
 
+### Teriyaki Edememe - 655 Calories
+![](images/teriyaki.jpg)
+
+|Ingredients|Serving|Calories|Fats|Carbs|Proteins|
+|--------|:--:|:--:|:-----:|:---:|:--:|
+| Quinioa | 3/4 cup  | 170 | 2.66 | 31.62 | 6 
+| Chicken | 100g  |  172 | 3.52 | 0 | 30.6
+| Brocolli | 3/4 Cup | 23 | 0 | 5 | 2 
+| Shredded Carrots | 1/2 Cup | 39 | 0.35 | 9 | 1 
+| Edameme (SoyBean) | 3/4 cup | 190 | 9 | 15 | 17
+| Green Onion | N/a | 0 | 0 | 0 | 0 
+| SoySause + Sirachia | Lots | 100 | 0 | 25 | 0 
+
+![](images/sausage_black_bean1.jpg)
+
+#### Totals: 35g Fat , 60 Carb , 27 Pro
+
+|Ingredients|Serving|Calories|Fats|Carbs|Proteins|
+|--------|:--:|:--:|:-----:|:---:|:--:|
+| GroundBeef | 100g  | 276 | 18.5 | 0 | 25 
+| Spanish Rice | 3/4 Cup  |  159 | 2.7 | 30.51 | 3.5
+| Tomato | 1/2 Cup | 26 | 0 | 6 | 1 
+| Blackbean | 1/2 Cup | 109 | 0.35 | 19.87 | 7.25 
+| Corn | 1/2 Cup | 70 | 0.5 | 16 | 2
+| Cheese | 20 grams | 80 | 7 | 0 | 5 
+| Lettuce | Lots | 0 | 0 | 0 | 0 
+
 ### Marks - Mexican Black bean - 686 Cal 
 
 ![](images/sausage_black_bean1.jpg)
