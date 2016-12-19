@@ -1,7 +1,11 @@
 
 # Measured out Meals
 
+Brussel Sprouts 
+$2.99/lb
 
+Brocolli
+$1.49/lb
 
 
 ## Meals
